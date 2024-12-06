@@ -1,0 +1,506 @@
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[01-Sep-2024 13:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[01-Sep-2024 13:30:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[01-Sep-2024 13:30:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[01-Sep-2024 13:30:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[01-Sep-2024 13:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[01-Sep-2024 13:47:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[01-Sep-2024 21:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 08:36:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 08:58:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 08:58:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 09:30:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[03-Sep-2024 23:19:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[03-Sep-2024 23:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[03-Sep-2024 23:22:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[03-Sep-2024 23:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[05-Sep-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[05-Sep-2024 16:16:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[05-Sep-2024 18:50:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[07-Sep-2024 01:23:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 11
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 180
+[11-Sep-2024 20:18:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 271
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 348
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 106
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 195
+[11-Sep-2024 20:19:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/naptien/napthe.php on line 319
+[19-Sep-2024 21:45:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[19-Sep-2024 21:45:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[19-Sep-2024 22:47:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[19-Sep-2024 22:47:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[19-Sep-2024 23:09:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[19-Sep-2024 23:09:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[20-Sep-2024 13:33:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[20-Sep-2024 13:33:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[22-Sep-2024 17:18:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[22-Sep-2024 17:18:48 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[23-Sep-2024 23:11:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[23-Sep-2024 23:11:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[24-Sep-2024 01:54:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[24-Sep-2024 01:54:42 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[30-Sep-2024 06:23:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[30-Sep-2024 06:23:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[30-Sep-2024 06:24:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[30-Sep-2024 06:24:19 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[01-Oct-2024 16:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[01-Oct-2024 16:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[01-Oct-2024 22:03:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[01-Oct-2024 22:03:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[02-Oct-2024 23:32:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[02-Oct-2024 23:32:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[02-Oct-2024 23:32:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[02-Oct-2024 23:32:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[03-Oct-2024 13:49:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[03-Oct-2024 13:49:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 17:49:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 17:49:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 18:20:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 18:20:58 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 20:37:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 20:37:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 23:18:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[04-Oct-2024 23:18:06 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[06-Oct-2024 22:35:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[06-Oct-2024 22:35:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[10-Oct-2024 11:47:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[10-Oct-2024 11:47:58 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[11-Oct-2024 12:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[11-Oct-2024 12:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[12-Oct-2024 20:21:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[12-Oct-2024 20:21:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[12-Oct-2024 20:21:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[12-Oct-2024 20:21:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[12-Oct-2024 22:56:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[12-Oct-2024 22:56:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[13-Oct-2024 17:17:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[13-Oct-2024 17:17:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/naptien/napatm.php on line 14
+[14-Oct-2024 12:13:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Oct-2024 12:13:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Oct-2024 12:13:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Oct-2024 12:13:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Oct-2024 21:27:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Oct-2024 21:27:14 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[15-Oct-2024 12:19:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[15-Oct-2024 12:19:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/pages/naptien/index.php on line 7
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/index.php on line 7
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/nav.php on line 17
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/nav.php on line 17
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/nav.php on line 86
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/nav.php on line 86
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/nav.php on line 101
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/nav.php on line 101
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 11
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 11
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 12
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 12
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 13
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 13
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 112
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 112
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 162
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 162
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 224
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 224
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 529
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 529
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 541
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 541
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: chinhapi in /home/gearzsub/public_html/hethong/sider.php on line 551
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/hethong/sider.php on line 551
+[16-Oct-2024 00:27:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function tien() in /home/gearzsub/public_html/hethong/sider.php:591
+Stack trace:
+#0 /home/gearzsub/public_html/pages/naptien/index.php(32): require()
+#1 {main}
+  thrown in /home/gearzsub/public_html/hethong/sider.php on line 591
+[16-Oct-2024 01:32:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[16-Oct-2024 01:32:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[17-Oct-2024 21:08:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[17-Oct-2024 21:08:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Oct-2024 21:10:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Oct-2024 21:10:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Oct-2024 21:12:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Oct-2024 21:12:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Oct-2024 21:17:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Oct-2024 21:17:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[19-Oct-2024 10:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[19-Oct-2024 10:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[19-Oct-2024 10:58:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[19-Oct-2024 10:58:58 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[19-Oct-2024 18:52:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[19-Oct-2024 18:52:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[21-Oct-2024 08:35:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[21-Oct-2024 08:35:48 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[21-Oct-2024 20:29:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[21-Oct-2024 20:29:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 02:36:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 02:36:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 06:14:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 06:14:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 06:14:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 06:14:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 09:10:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 09:10:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 19:11:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[24-Oct-2024 19:11:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[26-Oct-2024 15:48:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[26-Oct-2024 15:48:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[27-Oct-2024 00:33:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: db in /home/gearzsub/public_html/pages/naptien/napatm.php on line 37
+[27-Oct-2024 00:33:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function get_list() on null in /home/gearzsub/public_html/pages/naptien/napatm.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gearzsub/public_html/pages/naptien/napatm.php on line 37
+[27-Oct-2024 01:34:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: db in /home/gearzsub/public_html/pages/naptien/napatm.php on line 268
+[27-Oct-2024 01:34:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/gearzsub/public_html/pages/naptien/napatm.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/gearzsub/public_html/pages/naptien/napatm.php on line 268
+[27-Oct-2024 01:35:13 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gearzsub/public_html/pages/naptien/napatm.php on line 301
+[27-Oct-2024 01:35:34 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gearzsub/public_html/pages/naptien/napatm.php on line 300
+[27-Oct-2024 01:35:35 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gearzsub/public_html/pages/naptien/napatm.php on line 300
+[27-Oct-2024 01:35:42 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/gearzsub/public_html/pages/naptien/napatm.php on line 275
+[27-Oct-2024 01:35:42 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/gearzsub/public_html/pages/naptien/napatm.php on line 275
+[27-Oct-2024 01:36:32 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/gearzsub/public_html/pages/naptien/napatm.php on line 275
+[27-Oct-2024 01:37:00 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/gearzsub/public_html/pages/naptien/napatm.php on line 275
+[27-Oct-2024 08:38:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[27-Oct-2024 08:38:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[27-Oct-2024 10:34:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[27-Oct-2024 10:34:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[27-Oct-2024 18:01:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: chiet_khau in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[01-Nov-2024 19:59:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Nov-2024 19:59:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Nov-2024 19:59:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[01-Nov-2024 20:09:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[01-Nov-2024 22:10:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Nov-2024 22:10:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Nov-2024 22:10:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[02-Nov-2024 08:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[02-Nov-2024 08:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[02-Nov-2024 08:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[03-Nov-2024 12:55:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[03-Nov-2024 12:55:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[03-Nov-2024 12:55:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[05-Nov-2024 12:59:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[05-Nov-2024 12:59:09 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[05-Nov-2024 12:59:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 07:01:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 07:01:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 07:01:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 09:26:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[08-Nov-2024 12:01:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:01:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:01:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 12:30:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:30:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:30:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 12:35:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:35:46 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:35:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 12:42:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:42:45 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:42:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 12:43:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:43:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:43:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 12:52:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:52:56 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 12:52:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 17:32:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 17:32:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 17:32:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[08-Nov-2024 17:33:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 17:33:18 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[08-Nov-2024 17:33:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[09-Nov-2024 15:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[09-Nov-2024 15:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[09-Nov-2024 15:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[09-Nov-2024 16:43:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[09-Nov-2024 16:43:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[09-Nov-2024 16:43:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[10-Nov-2024 12:35:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[10-Nov-2024 12:35:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[10-Nov-2024 12:35:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[10-Nov-2024 19:16:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[10-Nov-2024 19:16:24 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[10-Nov-2024 19:16:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[10-Nov-2024 23:05:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[10-Nov-2024 23:05:49 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[10-Nov-2024 23:05:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[11-Nov-2024 17:04:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[11-Nov-2024 17:04:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[11-Nov-2024 17:04:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[11-Nov-2024 23:31:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[11-Nov-2024 23:31:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[11-Nov-2024 23:31:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[12-Nov-2024 01:24:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[12-Nov-2024 01:24:57 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[12-Nov-2024 01:24:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[12-Nov-2024 06:57:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[12-Nov-2024 06:57:23 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[12-Nov-2024 06:57:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[12-Nov-2024 17:47:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[12-Nov-2024 17:47:00 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[12-Nov-2024 17:47:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[13-Nov-2024 04:55:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[13-Nov-2024 04:55:45 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[13-Nov-2024 04:55:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[13-Nov-2024 19:18:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[13-Nov-2024 19:18:24 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[13-Nov-2024 19:18:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[13-Nov-2024 21:23:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[13-Nov-2024 21:45:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[13-Nov-2024 21:45:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[13-Nov-2024 21:45:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[14-Nov-2024 15:30:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Nov-2024 15:30:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Nov-2024 15:30:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[14-Nov-2024 15:58:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[14-Nov-2024 22:31:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Nov-2024 22:31:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Nov-2024 22:31:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[14-Nov-2024 22:32:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Nov-2024 22:32:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[14-Nov-2024 22:32:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[15-Nov-2024 17:51:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[15-Nov-2024 17:51:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[15-Nov-2024 17:51:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[15-Nov-2024 22:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[15-Nov-2024 22:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[15-Nov-2024 22:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[16-Nov-2024 10:39:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[16-Nov-2024 10:39:46 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[16-Nov-2024 10:39:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[17-Nov-2024 15:27:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[17-Nov-2024 15:27:24 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[17-Nov-2024 15:27:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[18-Nov-2024 07:50:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Nov-2024 07:50:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Nov-2024 07:50:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[18-Nov-2024 21:14:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Nov-2024 21:14:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[18-Nov-2024 21:14:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[20-Nov-2024 10:04:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[22-Nov-2024 06:25:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[22-Nov-2024 06:25:49 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[22-Nov-2024 06:25:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[22-Nov-2024 06:27:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[22-Nov-2024 07:04:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[22-Nov-2024 07:04:41 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[22-Nov-2024 07:04:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[22-Nov-2024 13:37:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[25-Nov-2024 22:04:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[25-Nov-2024 22:04:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[25-Nov-2024 22:04:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[26-Nov-2024 02:53:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[26-Nov-2024 05:30:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[26-Nov-2024 14:20:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[26-Nov-2024 14:20:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[26-Nov-2024 14:20:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[30-Nov-2024 18:48:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[30-Nov-2024 18:48:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[30-Nov-2024 18:48:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[30-Nov-2024 21:07:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[30-Nov-2024 21:07:35 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[30-Nov-2024 21:07:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[01-Dec-2024 10:44:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[01-Dec-2024 10:45:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[01-Dec-2024 12:19:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Dec-2024 12:19:49 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Dec-2024 12:19:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[01-Dec-2024 17:29:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[01-Dec-2024 20:08:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Dec-2024 20:08:43 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[01-Dec-2024 20:08:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[03-Dec-2024 08:58:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[03-Dec-2024 08:58:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[03-Dec-2024 08:58:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[03-Dec-2024 08:58:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[03-Dec-2024 11:21:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napthe.php on line 107
+[04-Dec-2024 13:02:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[04-Dec-2024 13:02:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[04-Dec-2024 13:02:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[04-Dec-2024 13:02:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[04-Dec-2024 13:02:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/gearzsub/public_html/pages/naptien/napatm.php on line 14
+[04-Dec-2024 13:02:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/naptien/napatm.php on line 181
+[05-Dec-2024 13:29:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 14
+[05-Dec-2024 13:29:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 14
+[05-Dec-2024 13:29:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: chiet_khau in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 181
+[06-Dec-2024 11:44:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 14
+[06-Dec-2024 11:44:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 14
+[06-Dec-2024 11:44:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: chiet_khau in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 181
+[06-Dec-2024 11:56:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: selectedBank in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 238
+[06-Dec-2024 11:57:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: selectedBank in /home/hu9kxplf50ot/public_html/pages/naptien/napatm.php on line 238

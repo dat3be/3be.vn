@@ -1,0 +1,6 @@
+# Bật chế độ Rewrite
+RewriteEngine On
+
+# Nếu truy cập vào thư mục giftcode mà không chỉ định file, tự động điều hướng đến giftcode.php
+RewriteCond %{REQUEST_URI} ^/admin/giftcode/?$ [NC]
+RewriteRule ^$ giftcode.php [L]

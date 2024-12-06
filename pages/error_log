@@ -1,0 +1,109 @@
+[01-Sep-2024 12:19:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[01-Sep-2024 12:30:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[01-Sep-2024 14:45:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 14
+[01-Sep-2024 14:45:02 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 16
+[01-Sep-2024 14:45:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 20
+[01-Sep-2024 14:45:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 25
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 78
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 136
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 160
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 192
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 288
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 321
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 430
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 445
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 459
+[01-Sep-2024 14:45:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 473
+[01-Sep-2024 15:38:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 14
+[01-Sep-2024 15:38:18 Asia/Ho_Chi_Minh] PHP Notice:  session_start(): A session had already been started - ignoring in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 16
+[01-Sep-2024 15:38:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 20
+[01-Sep-2024 15:38:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/config.php on line 25
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 78
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 136
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 160
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 192
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 288
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 321
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 430
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 445
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 459
+[01-Sep-2024 15:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 473
+[04-Sep-2024 11:32:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[04-Sep-2024 12:46:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 250
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 252
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/nav.php on line 253
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/hethong/sider.php on line 298
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 78
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 78
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 117
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 136
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 136
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 160
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 160
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 192
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 192
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 228
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 288
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 288
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 321
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 321
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 352
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: username in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 418
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 430
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 430
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 445
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 445
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 459
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 459
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 473
+[04-Sep-2024 12:48:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/profile.php on line 473
+[12-Sep-2024 12:13:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[05-Oct-2024 16:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[09-Oct-2024 11:37:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/crdducvipzzuxcom/public_html/pages/telegram.php on line 417
+[14-Oct-2024 01:05:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[14-Oct-2024 01:05:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[14-Oct-2024 01:05:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[14-Oct-2024 01:05:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[15-Oct-2024 01:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[15-Oct-2024 01:22:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[25-Oct-2024 00:56:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[25-Oct-2024 00:58:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 00:49:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 22:34:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 22:35:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 22:35:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 22:39:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 22:59:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 23:00:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[26-Oct-2024 23:00:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[27-Oct-2024 10:49:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id_tele in /home/gearzsub/public_html/pages/telegram.php on line 417
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "level" in /home/gearzsub/public_html/pages/profile.php on line 160
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "email" in /home/gearzsub/public_html/pages/profile.php on line 192
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/profile.php on line 228
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tong_nap" in /home/gearzsub/public_html/pages/profile.php on line 321
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tong_nap" in /home/gearzsub/public_html/pages/profile.php on line 352
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "email" in /home/gearzsub/public_html/pages/profile.php on line 429
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "ip" in /home/gearzsub/public_html/pages/profile.php on line 458
+[12-Nov-2024 19:24:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "time" in /home/gearzsub/public_html/pages/profile.php on line 472
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "level" in /home/gearzsub/public_html/pages/profile.php on line 160
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "email" in /home/gearzsub/public_html/pages/profile.php on line 192
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "chiet_khau" in /home/gearzsub/public_html/pages/profile.php on line 228
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tong_nap" in /home/gearzsub/public_html/pages/profile.php on line 321
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tong_nap" in /home/gearzsub/public_html/pages/profile.php on line 352
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "email" in /home/gearzsub/public_html/pages/profile.php on line 429
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "ip" in /home/gearzsub/public_html/pages/profile.php on line 458
+[21-Nov-2024 23:21:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "time" in /home/gearzsub/public_html/pages/profile.php on line 472

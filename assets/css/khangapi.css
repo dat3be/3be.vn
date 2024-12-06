@@ -1,0 +1,65 @@
+
+/*CSS HOẠT ĐỘNG*/
+
+
+
+.home-heading {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.home-heading h3 {
+    margin: 0;
+    color: #333;
+}
+
+.feature-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.feature-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.feature-content b {
+    font-weight: 600;
+}
+
+.feature-content .badge {
+    font-size: 0.875rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Styles for text colors */
+.feature-content b[style*="color: green;"] {
+    color: #28a745 !important;
+}
+
+.feature-content b[style*="color: red;"] {
+    color: #dc3545 !important;
+}
+
+.feature-content b[style*="color: blue;"] {
+    color: #007bff !important;
+}
+
+.feature-content .badge.bg-primary {
+    background-color: #007bff;
+    color: #ffffff;
+}

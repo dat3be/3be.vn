@@ -1,0 +1,4 @@
+[03-Sep-2024 08:23:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: captcha_result in /home/crdducvipzzuxcom/public_html/ajax/auth/xulyregister.php on line 22
+[03-Sep-2024 08:23:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_answer in /home/crdducvipzzuxcom/public_html/ajax/auth/xulyregister.php on line 22
+[04-Sep-2024 17:51:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: captcha_result in /home/crdducvipzzuxcom/public_html/ajax/auth/xulyregister.php on line 22
+[04-Sep-2024 17:51:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_answer in /home/crdducvipzzuxcom/public_html/ajax/auth/xulyregister.php on line 22

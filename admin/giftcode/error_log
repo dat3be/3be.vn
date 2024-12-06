@@ -1,0 +1,10 @@
+[06-Dec-2024 03:05:39 UTC] PHP Warning:  require_once(head.php): failed to open stream: No such file or directory in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 5
+[06-Dec-2024 03:05:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'head.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 5
+[06-Dec-2024 03:08:31 UTC] PHP Warning:  require_once(head.php): failed to open stream: No such file or directory in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 5
+[06-Dec-2024 03:08:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'head.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 5
+[06-Dec-2024 03:21:28 UTC] PHP Warning:  require_once(head.php): failed to open stream: No such file or directory in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 5
+[06-Dec-2024 03:21:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'head.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 5
+[06-Dec-2024 10:24:07 Asia/Ho_Chi_Minh] PHP Warning:  require_once(foot.php): failed to open stream: No such file or directory in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 144
+[06-Dec-2024 10:24:07 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required 'foot.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hu9kxplf50ot/public_html/admin/giftcode/giftcode.php on line 144
+[06-Dec-2024 03:25:34 UTC] PHP Warning:  require_once(head.php): failed to open stream: No such file or directory in /home/hu9kxplf50ot/public_html/admin/giftcode/add-gift-code.php on line 5
+[06-Dec-2024 03:25:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'head.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hu9kxplf50ot/public_html/admin/giftcode/add-gift-code.php on line 5

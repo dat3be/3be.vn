@@ -1,0 +1,68 @@
+
+
+Chia sẻ
+
+ĐT
+Bạn đã nói:
+[30-Oct-2024 16:31:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/hist-bq.php on line 73
+[30-Oct-2024 16:31:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/hist-bq.php on line 73
+[30-Oct-2024 16:31:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[30-Oct-2024 16:31:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[30-Oct-2024 16:32:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 83
+[30-Oct-2024 16:32:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 83
+[30-Oct-2024 16:32:09 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:10 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:11 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:12 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:13 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:13 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:14 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:15 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:32:17 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[30-Oct-2024 16:47:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[30-Oct-2024 16:47:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[31-Oct-2024 02:48:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[31-Oct-2024 02:48:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[31-Oct-2024 14:43:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[31-Oct-2024 14:43:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[31-Oct-2024 23:41:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[31-Oct-2024 23:41:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[01-Nov-2024 20:41:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[01-Nov-2024 20:41:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[01-Nov-2024 20:50:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[01-Nov-2024 20:50:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 00:57:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 00:57:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 00:58:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/hist-bq.php on line 73
+[02-Nov-2024 00:58:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/hist-bq.php on line 73
+[02-Nov-2024 16:31:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 16:31:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 16:32:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/hist-bq.php on line 73
+[02-Nov-2024 16:32:04 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/hist-bq.php on line 73
+[02-Nov-2024 16:32:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 83
+[02-Nov-2024 16:32:06 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 83
+[02-Nov-2024 16:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:20 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:21 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:22 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:24 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:25 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:26 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 16:32:26 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crdducvipzzuxcom/public_html/hethong/head.php:9) in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 14
+[02-Nov-2024 18:36:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 18:36:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 18:41:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 18:41:58 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[02-Nov-2024 18:42:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 83
+[02-Nov-2024 18:42:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/view-bq.php on line 83
+[03-Nov-2024 00:37:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[03-Nov-2024 00:37:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[03-Nov-2024 12:30:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[03-Nov-2024 12:30:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[03-Nov-2024 17:46:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69
+[03-Nov-2024 17:46:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/crdducvipzzuxcom/public_html/pages/banquyen/list-bq.php on line 69

@@ -1,0 +1,107 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R]
+
+<Files .env>
+    Order allow,deny
+    Deny from all
+</Files>
+<Files .htaccess>
+    Order allow,deny
+    Deny from all
+</Files>
+<FilesMatch "\.zip$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# AUTH
+RewriteRule ^home$ /index.php [L]
+RewriteRule ^auth/login-google$ /pages/auth/login-google.php [L]
+RewriteRule ^auth/login$ /pages/auth/login.php [L]
+RewriteRule ^auth/register$ /pages/auth/dangky.php [L]
+RewriteRule ^auth/password-reset$ /pages/auth/quenpass.php [L]
+RewriteRule ^resetpass$ /pages/auth/datlaipass.php [L]
+RewriteRule ^auth/logout$ /pages/auth/logout.php [L]
+# LANDING
+RewriteRule ^test$ /oceanwp/header.php [L]
+#MÃ NGUỒN 
+RewriteRule ^ma-nguon$ /pages/manguon/manguon.php [L]
+RewriteRule ^ma-nguon/([A-Za-z0-9-]+) /pages/manguon/viewcode.php?id=$1 [L]
+RewriteRule ^ma-nguon-page/([0-9]+)/?$ /pages/manguon/manguon.php?page=$1 [L,QSA]
+RewriteRule ^history-ma-nguon$ /pages/manguon/lichsumuacode.php [L]
+#DOMAIN
+RewriteRule ^mua-mien$ /pages/domain/domain.php [L]
+RewriteRule ^quan-ly-mien/([A-Za-z0-9-]+) /pages/domain/quanlymien.php?id=$1 [L]
+RewriteRule ^history-domain$ /pages/domain/historydomain.php [L]
+RewriteRule ^add-record/([A-Za-z0-9-]+) /pages/domain/add-record.php?id=$1 [L]
+RewriteRule ^edit-record/([A-Za-z0-9-]+) /pages/domain/edit-record.php?id=$1 [L]
+#HOSTING
+RewriteRule ^server-hosting$ /pages/hosting/index.php [L]
+RewriteRule ^server-hosting/([A-Za-z0-9-]+) /pages/hosting/cuahang.php?server=$1 [L]
+RewriteRule ^thanh-toan-host/([A-Za-z0-9-]+) /pages/hosting/thanhtoan.php?id=$1 [L]
+RewriteRule ^history-hosting$ /pages/hosting/lshost.php [L]
+RewriteRule ^quan-ly-host/([A-Za-z0-9-]+) /pages/hosting/quanlyhost.php?id=$1 [L]
+#ACCOUNT 
+RewriteRule ^profile$ /pages/profile.php [L]
+RewriteRule ^password$ /pages/changepass.php [L]
+RewriteRule ^telegram$ /pages/telegram.php [L]
+#GIFTCODE
+RewriteRule ^giftcode$ /pages/giftcode/giftcode.php [L]
+#LICENSE 
+RewriteRule ^quanly-license$ /pages/license/license.php [L]
+RewriteRule ^edit-license/([A-Za-z0-9-]+) /pages/license/edit-license.php?id=$1 [L]
+#NẠP TIỀN
+RewriteRule ^nap-tien$ /pages/naptien/index.php [L]
+RewriteRule ^nap-the$ /pages/naptien/napthe.php [L]
+RewriteRule ^nap-bank$ /pages/naptien/napatm.php [L]
+#PAGE
+RewriteRule ^baotri$ /pages/baotri.php [L]
+#BẢN QUYỀN
+RewriteRule ^ban-quyen$ /pages/banquyen/list-bq.php [L]
+RewriteRule ^history-ban-quyen$ /pages/banquyen/hist-bq.php [L]
+RewriteRule ^ban-quyen/([A-Za-z0-9-]+) /pages/banquyen/view-bq.php?id=$1 [L]
+#NEWS
+RewriteRule ^news$ /pages/news/index.php [L]
+RewriteRule ^news/([A-Za-z0-9-]+).html /pages/news/views-news.php?id=$1 [L]
+#GIAWEB
+RewriteRule ^taoweb$ /pages/giaweb/index.php [L]
+RewriteRule ^thongtin/([A-Za-z0-9-]+).html /pages/giaweb/views-news.php?id=$1 [L]
+#AJAXS LICENSE
+RewriteRule ^license$ /ajax/license/license.php [L]
+RewriteRule ^status_license$ /ajax/license/status_license.php [L]
+#AJAXS LOGIN
+RewriteRule ^ajax/auth/xulylogin$ /ajax/auth/xulylogin.php [L]
+RewriteRule ^ajax/auth/xulyregister$ /ajax/auth/xulyregister.php [L]
+RewriteRule ^ajax/auth/reset-pass$ /ajax/auth/reset-pass.php [L]
+RewriteRule ^ajax/auth/xu-ly-mat-khau$ /ajax/auth/dat-lai-pass.php [L]
+#XỬ LÝ MÃ NGUỒN 
+RewriteRule ^ajax/manguon/xulymuacode$ /ajax/manguon/xulymuacode.php [L]
+#HOSTING
+RewriteRule ^ajax/hosting/xulyhost$ /ajax/hosting/xulyhost.php [L]
+RewriteRule ^ajax/hosting/changepass$ /ajax/hosting/changepass.php [L]
+RewriteRule ^ajax/hosting/resethost$ /ajax/hosting/resethost.php [L]
+RewriteRule ^ajax/hosting/xoahost$ /ajax/hosting/xoahost.php [L]
+RewriteRule ^ajax/hosting/changedomain$ /ajax/hosting/changedomain.php [L]
+RewriteRule ^ajax/hosting/giahan$ /ajax/hosting/giahan.php [L]
+#TIỆN ÍCH
+RewriteRule ^view-source$ /pages/tienich/view-scurce.php [L]
+RewriteRule ^upanh$ /pages/tienich/upanh.php [L]
+RewriteRule ^enc-dec$ /pages/tienich/mahoa-giaima.php [L]
+RewriteRule ^randommail$ /pages/tienich/randommail.php [L]
+RewriteRule ^download-tiktok$ /pages/tienich/download-tiktok.php [L]
+RewriteRule ^fake-link$ /pages/tienich/fakelink.php [L]
+RewriteRule ^qr-bank$ /pages/tienich/qrbank.php [L]
+RewriteRule ^phat-nguoi$ /pages/tienich/phatnguoi.php [L]
+ #NẠP TIỀN
+RewriteRule ^ajax/naptien/laynganhang$ /ajax/naptien/laynganhang.php [L]
+RewriteRule ^ajax/naptien/laymenhgia$ /ajax/naptien/laymenhgia.php [L]
+RewriteRule ^ajax/naptien/napthe$ /ajax/naptien/napthe.php [L]
+#KEY
+RewriteRule ^key$ /key.php [L]
+#404
+ErrorDocument 404 /404.php
+<Files 403.html>
+order allow,deny
+allow from all
+</Files>
